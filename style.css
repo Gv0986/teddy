@@ -1,12 +1,12 @@
 m:root {
   --theme-color: #285685;
-  --font-color: #ffc765;
+  --font-color: #fefcf9;
   --shade1: rgba(242, 38, 19, 0.5);
   --shade2: rgba(0, 255, 255, 0.5);
 }
 
 body {
-  background-color: black;
+  background-color: rgb(4, 0, 0);
   font-family: Chaucer;
   color: var(--font-color);
 
@@ -16,7 +16,7 @@ body {
 
 .textCont {
   font-size: 150%;
-  font-color: #ffc765;
+  font-color: #fefcf9;
   margin-top: 10%;
   margin-left: 5px;
   margin-right: 5px;
